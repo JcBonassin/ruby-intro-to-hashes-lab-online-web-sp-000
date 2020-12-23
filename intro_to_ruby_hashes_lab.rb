@@ -1,6 +1,5 @@
-def new_hash(hash)
-	hash.each do |
-
+def new_hash
+	{}
 end
 
 def actor
